@@ -1,0 +1,4 @@
+"Compartment",".y.","group1","group2","n1","n2","statistic","p","p.signif"
+"LAD_iLAD_diff","Methylation","Control","HGPS",6,9,5,0.00759,"**"
+"LAD_mean","Methylation","Control","HGPS",6,9,11,0.0663,"ns"
+"iLAD_mean","Methylation","Control","HGPS",6,9,13,0.113,"ns"

@@ -1,0 +1,26 @@
+# ── Raw data (download from GEO) ──────────────────────────────────────────────
+data/raw/
+
+# ── Processed RData matrices (regenerate via scripts) ─────────────────────────
+data/processed/
+
+# ── LAD raw archives & array definition files ─────────────────────────────────
+data/LAD/*.tar
+data/LAD/*.adf.gz
+data/LAD/GSE54334/
+data/LAD/GSE12827_listing.html
+
+# ── BMIQ diagnostic PDFs ──────────────────────────────────────────────────────
+CheckBMIQ-1.pdf
+Type1fit-1.pdf
+Type2fit-1.pdf
+
+# ── Empty directories ─────────────────────────────────────────────────────────
+processed/
+
+# ── OS / IDE clutter ──────────────────────────────────────────────────────────
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
